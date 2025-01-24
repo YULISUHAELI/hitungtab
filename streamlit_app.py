@@ -6,4 +6,4 @@ t = st.number_input("Masukan tinggi (cm):",0)
 
 if st.bottom("hitung volum",type=primary"):
  v=math.pi*(r**2)*t
-st.success(f"Vulume tabung adalah{vi.2f}")
+ st.success(f"Vulume tabung adalah{vi.2f}")
